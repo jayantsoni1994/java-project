@@ -29,12 +29,11 @@
 <distributionManagement>
 <snapshotRepository>
     <id>Java-Snapshots</id>
-    <name>java-project-Snapshots</name>
-<url>http://192.168.0.121:8081/repository/Java-Snapshots/</url>
+<url>http://192.168.100.11:8081/repository/Java-Snapshots/</url>
 </snapshotRepository>
 <repository>
         <id>Java-Release</id>
-<url>http://192.168.0.121:8081/repository/Java-Release/</url>
+<url>http://192.168.100.11:8081/repository/Java-Release/</url>
 </repository>
 </distributionManagement>
 
